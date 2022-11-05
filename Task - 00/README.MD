@@ -1,0 +1,2 @@
+## Install Ubuntu 20.04 [Desktop]
+Pretty simple task but me being a newbie found it kinda difficult. I use windows 11 as my primary OS and decided to dual boot ubuntu but apparently I had to turn off my bitlocker which I hadn't. So my laptop got locked and I needed a 48 digit passcode and it took me so long just to unlock my laptop 😭 but hey after 3 days I dual booted my laptop with ubuntu so yay 🥳
