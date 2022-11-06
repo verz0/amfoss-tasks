@@ -8,3 +8,5 @@
 6. I merged the branch using "git merge" and copied and changed the name of file using cp and mv
 7. To concatenate i used the "cat" command and then deleted all the files except the file containing the passwords
 ![Screenshot from 2022-11-06 17-00-44](https://user-images.githubusercontent.com/115163471/200172903-512308a8-1369-4921-adce-267965dc6601.png)[password.txt](https://github.com/verz0/amfoss-tasks/files/9945917/password.txt)
+
+oh and i pushed using git remote add origin and git push -u origin master (I basically did this and something else and it just came into this repository :sob:)
