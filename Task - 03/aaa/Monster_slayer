@@ -1,0 +1,24 @@
+t = int(input())
+while(t != 0):
+    n = int(input())
+    x = list(map(int, input().split()))
+    p = x
+    nonz = 0
+    for i in x:
+        if(i != 0):
+            nonz += 1
+    x.sort()
+    flg = 1
+    if nonz != 0 and x[0] == 0:
+        flg = 1
+    elif x == p:
+        flg = 0
+        for i in x:
+            if i%x[0] != 0:
+                flg = 1
+                break
+    if flg == 0:
+        print("YES")
+    else:
+        print("NO")
+    t -= 1

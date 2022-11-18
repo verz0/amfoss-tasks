@@ -1,0 +1,26 @@
+t = int(input())
+while(t != 0):
+    n = int(input())
+    x = list(map(int, input().split()))
+    
+    p = {}
+    for i in x:
+        p[i] = 0
+    for i in x:
+        p[i] += 1
+        
+    ans = 0
+    
+    if 0 in x:
+        for i in x:
+            if(i != 0):
+                ans += 1
+    else:      
+        for i in p.keys():
+            if p[i] > 1:
+                ans = len(x)
+                break
+            else:
+                ans = len(x)+1
+    print(ans)
+    t -= 1

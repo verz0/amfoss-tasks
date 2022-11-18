@@ -1,0 +1,17 @@
+n,m = map(int, input().split())
+words = {}
+for i in range(m):
+    x = list(map(str, input().split()))
+    words[x[0]] = x[1]
+    
+tp = input().split()
+t = ""
+for i in tp:
+    a = i
+    b = words[i]
+    if(len(b) < len(a)):
+        t += b + " "
+    else:
+        t += a+ " "
+        
+print(t)

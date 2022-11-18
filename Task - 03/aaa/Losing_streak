@@ -1,0 +1,19 @@
+n,m = map(int, input().split())
+
+ans = 0
+
+if m%n != 0:
+    print("-1")
+else:
+    m //= n
+    while(m != 1):
+        if(m%2==0):
+            m//=2
+            ans += 1
+        elif(m%3==0):
+            m//=3
+            ans += 1
+        elif(m != 1):
+            print("-1")
+            exit()
+    print(ans)
