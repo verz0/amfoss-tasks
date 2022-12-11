@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #FF0000;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {font-family: "Trirong", serif;
+
+}
+
+.a {font-family: "Trirong", serif;
+
+}
+
+.s {font-family: "Trirong", serif;
+
+}
+
+.d {font-family: "Trirong", serif;
+
+}
+
+.j {font-family: "Trirong", serif;
+
+}
+
+.k {font-family: "Trirong", serif;
+
+}
+
+.l {font-family: "Trirong", serif;
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #00FFFF;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #39FF14;
+  font-size: 4rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #FFFFFF;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  margin: 10px;
+  background-color: red;
+}
