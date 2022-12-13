@@ -1,0 +1,27 @@
+
+const int motionSensorPin = 2;
+const int lcdDataPin = 3;
+const int lcdClockPin = 4;
+
+int count = 0;
+
+void setup() {
+  pinMode(motionSensorPin, INPUT);
+  pinMode(lcdDataPin, OUTPUT);
+  pinMode(lcdClockPin, OUTPUT);
+  lcd.begin(16, 2);
+}
+
+
+void loop() {
+  int motion = digitalRead(motionSensorPin);
+
+  if (motion == HIGH) {
+    count++;
+  }
+  
+  lcd.setCursor(0, 0);
+  lcd.print("Count: ");
+  lcd.print(count);
+}
+
