@@ -1,0 +1,13 @@
+def hcf(a, b):
+    if b:
+        return hcf(b, a % b)
+    else:
+        return a
+
+T = int(input())
+for i in range(T):
+    product = 1
+    N = int(input())
+    for number in range(2, N + 1):
+        product *= number // hcf(product, number)
+    print(product)
