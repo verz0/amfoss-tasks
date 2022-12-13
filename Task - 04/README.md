@@ -1,6 +1,7 @@
 ![ezgif-5-792c2494b7](https://user-images.githubusercontent.com/115163471/201459646-3c4dc427-7ea1-4735-8a30-75d24021db8c.gif)
 
 # Python script for the bot
+this was a complex task for me at the time of me doing this. I remember struggling with the csv part but i was able to complete it nevertheless.
 
 
     import os
