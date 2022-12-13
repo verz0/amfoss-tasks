@@ -1,8 +1,0 @@
-T = int(input())
-for i in range(T):
-    N = int(input())
-    multiplesof3 = (N - 1) // 3
-    multiplesof5 = (N - 1) // 5
-    multiplesof15 = (N - 1) // 15
-    sum = (3 * multiplesof3 * (multiplesof3 + 1) // 2 + 5 * multiplesof5 * (multiplesof5 + 1) // 2 - 15 * multiplesof15 * (multiplesof15 + 1) // 2)
-    print(sum)
