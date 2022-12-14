@@ -15,7 +15,7 @@ Fresher at Amrita school of computing (CSE 2022)**
 [Task - 08](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2008)|Internet Explorer| Create a functional HTML page| Completed
 [Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Write a Rust script that scrapes (web-scraping) information about the top 50 Cryptocurrency in the world| Completed
 [Task - 10](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2010)|CS50| complete problem sets till week-4| Completed
-[Task - 11](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2011)|Figma Ninja| design a Login, Register, and People Info Screen for the mobile app in Figma or Adobe Xd| Not attempted
+[Task - 11](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2011)|Figma Ninja| design a Login, Register, and People Info Screen for the mobile app in Figma or Adobe Xd| Completed
 [Task - 12](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2012)|Bunny Heist|  give character movements to a character in a 2d game in Godot Engine| Not attempted
 [Task - 13](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2013)|Footfall counter| Design a device using Arduino on TinkerCAD that you can fix on the entrance to count the number of people passing through it and display the count on an LCD screen or an 8-segment display| Completed
 [Task - 14](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2014)|Bandit| Complete Bandit till level 10| Completed
