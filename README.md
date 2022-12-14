@@ -2,8 +2,8 @@
 # Pirajesh M R
 **I am Pirajesh M R (the i in my name is silent) coming from Bangalore, Karnataka but originally from TN and you are looking at my submission of tasks for a membership in amFOSS.
 Fresher at Amrita school of computing (CSE 2022)**
-**Tasks List**|**Description**|**Overview**|**Status**
---------------|---------------|------------|-----------
+**Tasks List**  |**Description**|**Overview**|**Status**
+----------------|---------------|------------|-----------
 [Task - 00](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2000)|Installing Ubuntu| Install Ubuntu 20.04 |Completed
 [Task - 01](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2001)|Staring amFOSS repositories|  Star all the amFOSS repositories| Completed
 [Task - 02](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2002)|Terminal Hunt| learn Linux Terminal Commands and Git| Completed
