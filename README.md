@@ -13,7 +13,7 @@ Fresher at Amrita school of computing (CSE 2022)**
 [Task - 06](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2006)|Flame game| Create a game using flutter| Completed
 [Task - 07](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2007)|Go WASM| Complete a Go script and compile using web assembly| Attempted 
 [Task - 08](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2008)|Internet Explorer| Create a functional HTML page| Completed
-[Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Write a Rust script that scrapes (web-scraping) information about the top 50 Cryptocurrency in the world| completed
+[Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Write a Rust script that scrapes (web-scraping) information about the top 50 Cryptocurrency in the world| Completed
 [Task - 10](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2010)|CS50| complete problem sets till week-4| Completed
 [Task - 11](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2011)|Figma Ninja| design a Login, Register, and People Info Screen for the mobile app in Figma or Adobe Xd| Not attempted
 [Task - 12](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2012)|Bunny Heist|  give character movements to a character in a 2d game in Godot Engine| Not attempted
