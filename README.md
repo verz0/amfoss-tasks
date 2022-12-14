@@ -11,15 +11,15 @@ Fresher at Amrita school of computing (CSE 2022)**
 [Task - 04](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2004)|CineBot| creating a Telegram bot that will create a Movie Watchlist containing the Title, Year of Release, and IMDb Rating of each movie| Completed
 [Task - 05](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2005)|Find the bug| solve the bugs and complete the client-server application based on C#| Completed
 [Task - 06](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2006)|Flame game| Create a game using flutter| Completed
-[Task - 07](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2007)|Go WASM| Attempted 
-[Task - 08](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2008)|Internet Explorer| Completed
-[Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Almost completed
-[Task - 10](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2010)|CS50| Completed
-[Task - 11](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2011)|Figma Ninja| Not attempted
-[Task - 12](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2012)|Bunny Heist| Not attempted
-[Task - 13](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2013)|Footfall counter| Completed
-[Task - 14](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2014)|Bandit| Completed
-[Task - 15](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2015)|Euler| Completed
+[Task - 07](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2007)|Go WASM| Complete a Go script and compile using web assembly| Attempted 
+[Task - 08](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2008)|Internet Explorer| Create a functional HTML page| Completed
+[Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Write a Rust script that scrapes (web-scraping) information about the top 50 Cryptocurrency in the world| Almost completed
+[Task - 10](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2010)|CS50| complete problem sets till week-4| Completed
+[Task - 11](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2011)|Figma Ninja| design a Login, Register, and People Info Screen for the mobile app in Figma or Adobe Xd| Not attempted
+[Task - 12](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2012)|Bunny Heist|  give character movements to a character in a 2d game in Godot Engine| Not attempted
+[Task - 13](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2013)|Footfall counter| Design a device using Arduino on TinkerCAD that you can fix on the entrance to count the number of people passing through it and display the count on an LCD screen or an 8-segment display| Completed
+[Task - 14](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2014)|Bandit| Complete Bandit till level 10| Completed
+[Task - 15](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2015)|Euler| Finish Project Euler challeneges 1-5| Completed
 ## My views about the tasks
 The tasks were fun and challenging to do. I learnt a lot through these tasks and now I'm just more intrigued to go deeper into the fields. I had to self learn the necessary things for the tasks in the process and I believe this skill would come handy in many situations. I used to start coding during those 10 minute breaks we get between each class because the errors I got in crypto and flutter were really annoying and I just wanted them out of my way. If i was not bombarded with lab exams and assignments during the last two weeks, I could have done all the optional tasks and given my best in the main tasks but hey, I tried my best.
 ## My introduction
