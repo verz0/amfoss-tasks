@@ -1,15 +1,16 @@
 # amfoss-tasks
 # Pirajesh M R
-**I am Pirajesh M R (the i in my name is silent) coming from Bangalore, Karnataka but originally from TN. Fresher at Amrita school of computing (CSE 2022)**
-**Tasks List**|**Description**|**Status**
---------------|---------------|---------------
-[Task - 00](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2000)|Installing Ubuntu|Completed
-[Task - 01](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2001)|Staring amFOSS repositories|Completed
-[Task - 02](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2002)|Terminal Hunt|Completed
-[Task - 03](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2003)|Programming| 6 questions done
-[Task - 04](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2004)|CineBot|Completed
-[Task - 05](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2005)|Find the bug|Completed
-[Task - 06](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2006)|Flame game|Completed
+**I am Pirajesh M R (the i in my name is silent) coming from Bangalore, Karnataka but originally from TN and you are looking at my submission of tasks for a membership in amFOSS.
+Fresher at Amrita school of computing (CSE 2022)**
+**Tasks List**|**Description**|**Overview**|**Status**
+--------------|---------------|------------|-----------
+[Task - 00](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2000)|Installing Ubuntu| Install Ubuntu 20.04 |Completed
+[Task - 01](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2001)|Staring amFOSS repositories|  Star all the amFOSS repositories| Completed
+[Task - 02](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2002)|Terminal Hunt| learn Linux Terminal Commands and Git| Completed
+[Task - 03](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2003)|Programming| Solve the following problems from HackerRank| 6 questions done
+[Task - 04](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2004)|CineBot| creating a Telegram bot that will create a Movie Watchlist containing the Title, Year of Release, and IMDb Rating of each movie| Completed
+[Task - 05](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2005)|Find the bug| solve the bugs and complete the client-server application based on C#| Completed
+[Task - 06](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2006)|Flame game| Create a game using flutter| Completed
 [Task - 07](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2007)|Go WASM| Attempted 
 [Task - 08](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2008)|Internet Explorer| Completed
 [Task - 09](https://github.com/verz0/amfoss-tasks/tree/main/Task%20-%2009)|Krypto scrapper| Almost completed
